@@ -1,6 +1,6 @@
 # WIND Breakout
 
-##wind makes the feather fly.
+## wind makes the feather fly.
 
 WIND is a breakout board for the Adafruit Feather Series to make it easier to fly wire and put together a project with little to no soldering. 
 
