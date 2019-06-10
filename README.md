@@ -2,6 +2,8 @@
 
 ## wind makes the feather fly.
 
+[![WIND Project Board Video](https://img.youtube.com/vi/PwL2Ct8mRfc/0.jpg)](https://youtu.be/PwL2Ct8mRfc)
+
 WIND is a breakout board for the Adafruit Feather Series to make it easier to fly wire and put together a project with little to no soldering. 
 
 It contains a battery holder for a 18650(I hate loose batteries!), a few buttons, and 5 pin headers for each pin(plus a proto section). There is a power switch connected to the Enable pin(shuts off the regulator), and a voltage divider to the A0 analog 
